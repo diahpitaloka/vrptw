@@ -1,0 +1,16 @@
+E:\PTIIK Semester 3\Algoritma Evolusi\project_vrptw\project_vrptw\bin\Debug\project_vrptw.exe
+E:\PTIIK Semester 3\Algoritma Evolusi\project_vrptw\project_vrptw\bin\Debug\project_vrptw.pdb
+E:\PTIIK Semester 3\Algoritma Evolusi\project_vrptw\project_vrptw\obj\x86\Debug\project_vrptw.Form1.resources
+E:\PTIIK Semester 3\Algoritma Evolusi\project_vrptw\project_vrptw\obj\x86\Debug\project_vrptw.Properties.Resources.resources
+E:\PTIIK Semester 3\Algoritma Evolusi\project_vrptw\project_vrptw\obj\x86\Debug\project_vrptw.csproj.GenerateResource.Cache
+E:\PTIIK Semester 3\Algoritma Evolusi\project_vrptw\project_vrptw\obj\x86\Debug\project_vrptw.exe
+E:\PTIIK Semester 3\Algoritma Evolusi\project_vrptw\project_vrptw\obj\x86\Debug\project_vrptw.pdb
+D:\PTIIK Semester 3\ALEV\project_vrptw\project_vrptw\obj\x86\Debug\project_vrptw.exe
+D:\PTIIK Semester 3\ALEV\project_vrptw\project_vrptw\obj\x86\Debug\project_vrptw.pdb
+D:\PTIIK Semester 3\ALEV\project_vrptw\project_vrptw\bin\Debug\project_vrptw.exe
+D:\PTIIK Semester 3\ALEV\project_vrptw\project_vrptw\bin\Debug\project_vrptw.pdb
+D:\PTIIK Semester 3\ALEV\project_vrptw\project_vrptw\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PTIIK Semester 3\ALEV\project_vrptw\project_vrptw\obj\x86\Debug\project_vrptw.Form1.resources
+D:\PTIIK Semester 3\ALEV\project_vrptw\project_vrptw\obj\x86\Debug\project_vrptw.Properties.Resources.resources
+D:\PTIIK Semester 3\ALEV\project_vrptw\project_vrptw\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PTIIK Semester 3\ALEV\project_vrptw\project_vrptw\obj\x86\Debug\GenerateResource.write.1.tlog
